@@ -85,7 +85,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #FFF5EE;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -125,7 +125,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #000000;
-		font-weight: 400;
+		font-weight: 500;
 	}
 
 	em, i {
@@ -138,7 +138,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
-		font-weight: 400;
+		font-weight: 500;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -2626,7 +2626,7 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #FFF5EE;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -3004,7 +3004,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 1.6em;
 				}
 
 					#header h1 br {
